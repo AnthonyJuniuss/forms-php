@@ -22,5 +22,7 @@
         $operator = $_GET['operator'];
     }
     ?>
+
+    test
 </body>
 </html>
